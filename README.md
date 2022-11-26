@@ -1,10 +1,3 @@
-# Survey form idea
+## server
 
-- First Name [text]
-- Last Name [text]
-- Email [email]
-- Gender [radio]
-- Education [dropdown]
-- Age [number-with-increase-decrease]
-- Feedback [text-area]
-- Terms and conditions [checkbox]
+server link : https://github.com/mir-hussain/moon-tech-server/blob/main/index.js
