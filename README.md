@@ -1,3 +1,3 @@
 ## server
 
-server link : https://github.com/mir-hussain/moon-tech-server/blob/main/index.js
+server link : https://github.com/mir-hussain/moon-tech-server
